@@ -1,0 +1,14 @@
+[
+  {
+    "package": "hts",
+    "oncran": true
+  },
+  {
+    "package": "rwalkr",
+    "oncran": true
+  },
+  {
+    "package": "sugrrants",
+    "oncran": true
+  }
+]

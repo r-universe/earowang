@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hts"]
+	path = hts
+	url = https://github.com/earowang/hts
+	shallow = true
+	registered = true
+[submodule "rwalkr"]
+	path = rwalkr
+	url = https://github.com/earowang/rwalkr
+	shallow = true
+	registered = true
+[submodule "sugrrants"]
+	path = sugrrants
+	url = https://github.com/earowang/sugrrants
+	shallow = true
+	registered = true

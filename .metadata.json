@@ -10,5 +10,9 @@
   {
     "package": "sugrrants",
     "oncran": true
+  },
+  {
+    "package": "tsibbletalk",
+    "oncran": true
   }
 ]

@@ -18,3 +18,8 @@
 	url = https://github.com/earowang/sugrrants
 	shallow = true
 	registered = true
+[submodule "tsibbletalk"]
+	path = tsibbletalk
+	url = https://github.com/earowang/tsibbletalk
+	shallow = true
+	registered = true
